@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "fomalhaut1998/dsh-ai-research",
+  "name": "dsh-ai-research",
+  "repository": "https://github.com/fomalhaut1998/dsh-ai-research",
+  "category": "tools",
+  "description": {
+    "en": "AI research toolkit: a model release radar (tracking sites, OpenRouter listings, official RSS, GitHub releases, arXiv, Hacker News), a model benchmark and community report (13 structured sources incl. llm-stats, benchlm, Artificial Analysis, Vals AI, SWE-bench, SWE-rebench, ARC Prize, LMArena, plus Hacker News / X / Reddit / Bilibili / CSDN / Juejin / Zhihu / Xiaohongshu), and an AI news digest (46 RSS/HTML sources, 22 official X accounts, Google/Bing news search, HN/Reddit/WeChat). Registers 4 tools and 3 skills; zero third-party dependencies.",
+    "zh": "AI 研究工具包：模型发布雷达（追踪站、OpenRouter 上架、官方 RSS、GitHub release、arXiv、Hacker News）、模型实测与口碑报告（13 路结构化源，含 llm-stats、benchlm、Artificial Analysis、Vals AI、SWE-bench、SWE-rebench、ARC Prize、LMArena，以及 HN/X/Reddit/B站/CSDN/掘金/知乎/小红书）与 AI 新闻日报（46 个 RSS/HTML 源、22 个官方 X 账号、Google/Bing 检索、HN/Reddit/微信）。注册 4 个工具 + 3 个技能，零第三方依赖。"
+  },
+  "added": "2026-10-17"
+}
