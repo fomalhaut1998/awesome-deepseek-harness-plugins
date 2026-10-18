@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "fomalhaut1998/dsh-session-find",
+  "name": "dsh-session-find",
+  "repository": "https://github.com/fomalhaut1998/dsh-session-find",
+  "category": "session",
+  "description": {
+    "en": "Ctrl+F find-in-session that searches the session store rather than the DOM, labels each hit by source (you, assistant, reasoning, tool call, tool result, system), merges duplicates, groups results by turn, and exports them as Markdown.",
+    "zh": "会话内 Ctrl+F 查找：直接读取会话 store 而非 DOM，命中按来源（你、助手、思考、工具调用、工具输出、系统）标注，合并同文重复、按轮次分组，并可把结果导出为 Markdown。"
+  },
+  "added": "2026-10-18"
+}
